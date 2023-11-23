@@ -4,7 +4,7 @@ import random
 name = input("Enter your name: ")
 print(f"Welcome to rock, paper, scissors, {name}!")
 
-#GAME PROPER
+#CHOICE OF PLAYER AND COMPUTER
 action = input("Enter a choice (Rock, Paper, Scissors): ")
 
 possible_actions = ["Rock", "Paper", "Scissors"]
