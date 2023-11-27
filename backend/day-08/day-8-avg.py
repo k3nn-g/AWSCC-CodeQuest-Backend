@@ -1,7 +1,3 @@
-my_list = [5, 9, 2, 3, 1]
-my_avg = avg(my_list)
-print(my_avg)
-
 def avg(numlist):
     sum = 0
     avg = 0
@@ -13,3 +9,7 @@ def avg(numlist):
     print(avg)
     
     return avg
+
+my_list = [5, 9, 2, 3, 1]
+my_avg = avg(my_list)
+print(my_avg)
